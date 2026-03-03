@@ -1,7 +1,3 @@
-Baik 👍 karena kamu **belum pernah install Golang sebelumnya** dan pakai **zsh di WSL Ubuntu**, kita mulai dari nol dengan cara yang paling aman dan direkomendasikan (install versi resmi dari situs Go).
-
----
-
 # 🚀 Instalasi Golang di WSL Ubuntu (zsh)
 
 ## ✅ 1. Update Ubuntu dulu
@@ -104,12 +100,3 @@ go run hello.go
 Kalau keluar tulisan `Hello, Go di WSL!` berarti sukses 🎉
 
 ---
-
-Kalau mau, saya bisa bantu lanjut ke:
-
-* Setup Go Modules (`go mod init`)
-* Setup struktur project yang benar
-* Integrasi Go dengan VS Code di WSL
-* Atau cara install via apt (lebih simpel tapi biasanya versi lama)
-
-Kamu pakai Ubuntu versi berapa di WSL? (ketik `lsb_release -a`)
